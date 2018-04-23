@@ -1,0 +1,8 @@
+encoding  utf-8
+source Legnabrocky_Pot.th
+export map -proj plan -layout local -output ../output/LegnabrockyPot.pdf
+layout local
+  scale 1 100
+  #legend on
+  scale-bar 20 m
+endlayout
