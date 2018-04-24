@@ -1,7 +1,7 @@
 encoding  utf-8
 # 2018.04.22 created by TopoDroid v 4.0.0h
 
-survey Legnabrocky_Pot -title "Legnabrocky_Pot"
+survey Legnabrocky_Pot -title "Legnabrocky Pot"
 
   input "Legnabrocky_Pot-SURFACEp.th2"
   # input "Legnabrocky_Pot-SURFACEs.th2"
@@ -39,10 +39,17 @@ survey Legnabrocky_Pot -title "Legnabrocky_Pot"
 
   centerline
     cs long-lat
-    #fix ENTRANCE -7.814624 54.251502 188
-    date 2018.04.22 
-    team "Hugh Norton"
-    team "Sheldon Hentschke"
+    station 0 "Entrance Pit" entrance
+    fix 0 -7.814624 54.251502 188
+    
+    
+    date 2018.04.22
+    
+    
+    team "Hugh Norton" notes
+    team "Sheldon Hentschke" insts
+    
+    
     # declination 0.00 degrees
     units length meters
     units compass clino degrees
