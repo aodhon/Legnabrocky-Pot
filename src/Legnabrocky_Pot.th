@@ -26,6 +26,9 @@ survey Legnabrocky_Pot -title "Legnabrocky Pot"
   # endmap
   map mMainChamberp -projection plan
     Legnabrocky_Pot-MainChamberp
+    EndOfCaveSP
+    WalkingAreaSP
+    StalCrawlSP
   endmap
   # map mMainChambers -projection extended
   #   Legnabrocky_Pot-MainChambers

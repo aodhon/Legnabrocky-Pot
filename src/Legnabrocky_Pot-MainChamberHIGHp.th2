@@ -1,322 +1,373 @@
-encoding utf-8
-##XTHERION## xth_me_area_adjust 438.8 -888.9 919.0 -85.8
-##XTHERION## xth_me_area_zoom_to 25
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -130.0 -1274.0 916.5 139.5
+##XTHERION## xth_me_area_zoom_to 200
 
 # 2018.04.22 created by TopoDroid v. 4.0.0h
 
 #P  u:user label air-draught blocks clay continuation debris entrance flowstone rimstone-pool paleo-material pillar pillars sand soda-straw stalactite stalactites stalagmite stalagmites wall-calcite water-flow
 #L  u:user wall arrow border pit rock-border slope wall:blocks
 #A  u:user water blocks clay debris sand
+
+
+
+
 scrap Legnabrocky_Pot-MainChamberHIGHp -projection plan -scale [0 0 100 0 0 0 1 0 m]
 
 line wall
-  418.05 -522.58
-  395.20 -521.82
+  408.46 -523.54
+  395.2 -521.82
   373.76 -525.71
-  366.82 -542.25
+  357.69 -531.42
   372.77 -563.49
-  378.80 -584.76
-  381.90 -606.55
-  383.90 -628.32
+  375.22 -587.61
+  381.9 -606.55
+  383.9 -628.32
 endline
 
 line wall
-  389.87 -621.64
+  383.9 -628.32
   390.16 -644.55
-  395.69 -666.98
+  395.06 -666.9
   405.72 -688.43
-  416.76 -708.08
-  426.02 -726.47
-  436.89 -744.54
-  452.62 -759.12
+  409.0 -709.0
+  409.5 -729.5
+  414.89 -760.6
+  426.5 -770.0
+  455.87 -756.37
 endline
 
 line wall
-  471.49 -757.11
-  466.26 -778.17
-  461.27 -801.00
+  455.87 -756.37
+  458.5 -777.0
+  461.27 -801.0
   452.45 -826.48
   448.07 -849.38
-  443.15 -875.29
-  437.26 -901.00
+  443.0 -875.5
+  437.26 -901.0
   433.74 -921.32
   430.74 -946.46
   432.81 -969.55
   438.36 -991.57
-  449.01 -1010.30
-  465.41 -1023.48
-  487.19 -1029.08
+  449.71 -1018.28
+  462.0 -1025.0
+  485.0 -1034.0
   509.19 -1040.91
   529.25 -1051.97
   549.76 -1064.23
   571.47 -1074.07
-  590.41 -1067.10
+  590.41 -1072.72
   606.21 -1054.37
-  620.87 -1036.28
-  633.18 -1010.52
-  640.35 -986.05
-  643.91 -965.72
-  649.91 -941.82
+  608.5 -1034.0
+  611.0 -1017.0
+  616.2 -994.76
+  636.0 -966.0
+  650.43 -946.24
 endline
 
 line wall
-  655.54 -934.42
+  650.43 -946.24
   673.89 -923.64
   698.83 -916.78
-  718.35 -919.36
-  737.50 -908.86
+  719.0 -916.0
+  737.5 -908.86
   754.19 -894.89
-  763.60 -875.79
-  764.19 -853.20
-  763.11 -829.27
-  758.82 -805.62
-  756.62 -781.16
-  757.57 -756.28
-  755.19 -732.84
-  754.71 -709.84
-  749.51 -684.70
+  770.86 -877.85
+  781.0 -862.0
+  786.61 -844.94
+  777.0 -805.0
+  770.5 -775.5
+  766.0 -755.0
+  764.5 -731.5
+  765.5 -713.5
+  762.8 -699.73
 endline
 
 line wall
-  761.39 -679.80
-  750.12 -656.90
-  735.96 -635.78
+  762.8 -699.73
+  756.0 -672.5
+  737.5 -641.0
   720.93 -619.46
   711.14 -597.16
-  704.10 -575.66
-  698.07 -556.55
-  693.84 -532.46
-  699.40 -510.47
+  708.0 -583.5
+  706.5 -562.0
+  704.5 -540.5
+  702.31 -526.08
 endline
 
 line wall
-  701.82 -512.41
-  705.73 -490.57
+  702.31 -526.08
+  706.0 -500.5
   715.88 -469.53
-  729.41 -451.86
-  739.10 -430.40
-  744.98 -410.91
-  728.60 -406.61
+  763.5 -427.0
+  765.38 -409.34
+  748.5 -404.0
+  728.6 -406.61
   709.45 -415.54
   691.79 -426.16
   669.23 -436.71
   649.92 -448.69
-  629.90 -464.85
-  613.50 -477.51
-  593.36 -493.00
-  575.73 -502.29
-  554.88 -502.29
-  534.71 -502.29
-  511.26 -505.24
-  487.09 -511.15
-  463.50 -515.77
-  439.18 -521.10
-  418.66 -518.74
+  639.0 -454.0
+  618.5 -462.5
+  596.5 -469.5
+  577.5 -474.09
+  543.5 -493.0
+  520.04 -493.85
+  503.0 -501.5
+  480.5 -513.0
+  463.5 -515.77
+  439.18 -521.1
+  408.46 -523.54
 endline
 
 line slope
   483.72 -881.65
   514.16 -871.53
-  539.10 -863.69
+  539.1 -863.69
   563.85 -858.04
-  590.21 -849.90
+  590.21 -849.9
   618.11 -843.03
   643.22 -831.84
   663.81 -818.36
   683.36 -798.49
   697.69 -784.22
   712.09 -759.63
-  l-size 40
+  l-size 40.0
 endline
-
 
 line u:splay -visibility off
   258.04 -612.58
   537.97 -417.83
 endline
+
 line u:splay -visibility off
   258.04 -612.58
   514.46 -519.61
 endline
+
 line u:splay -visibility off
   258.04 -612.58
-  519.73 -631.30
+  519.73 -631.3
 endline
+
 line u:splay -visibility off
   258.04 -612.58
   547.61 -734.22
 endline
+
 line u:splay -visibility off
   258.04 -612.58
   474.32 -870.07
 endline
+
 line u:splay -visibility off
   258.04 -612.58
   398.05 -1143.77
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   193.46 -968.23
 endline
+
 line u:splay -visibility off
   451.91 -613.61
-  181.40 -766.09
+  181.4 -766.09
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   470.75 -885.36
 endline
+
 line u:splay -visibility off
   451.91 -613.61
-  577.72 -306.20
+  577.72 -306.2
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   525.02 -237.96
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   316.13 -299.78
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   230.69 -534.19
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   186.96 -249.55
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   430.77 -508.84
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   423.88 -446.18
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   423.97 -455.99
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   292.43 -358.47
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   212.04 -476.78
 endline
+
 line u:splay -visibility off
   451.91 -613.61
   157.62 -259.67
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   408.46 -523.54
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   357.69 -531.42
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   375.22 -587.61
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  395.06 -666.90
+  500.0 -600.0
+  395.06 -666.9
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   455.87 -756.37
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  414.89 -760.60
+  500.0 -600.0
+  414.89 -760.6
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  508.60 -869.97
+  500.0 -600.0
+  508.6 -869.97
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   628.37 -742.84
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   449.71 -1018.28
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   590.41 -1072.72
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   650.43 -946.24
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   620.75 -748.46
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   770.86 -877.85
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  762.80 -699.73
+  500.0 -600.0
+  762.8 -699.73
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   702.31 -526.08
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  577.50 -474.09
+  500.0 -600.0
+  577.5 -474.09
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   520.04 -493.85
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  567.10 -502.80
+  500.0 -600.0
+  567.1 -502.8
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   765.38 -409.34
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  616.20 -994.76
+  500.0 -600.0
+  616.2 -994.76
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
-  564.03 -994.30
+  500.0 -600.0
+  564.03 -994.3
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   560.19 -608.59
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   601.19 -808.89
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   786.61 -844.94
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   717.93 -684.98
 endline
+
 line u:splay -visibility off
-  500.00 -600.00
+  500.0 -600.0
   595.52 -847.69
 endline
 
 point 500.00 -600.00 station -name "8"
+
 point 451.91 -613.61 station -name "7"
 
-
 endscrap
+
+

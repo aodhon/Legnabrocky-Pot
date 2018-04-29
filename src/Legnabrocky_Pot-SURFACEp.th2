@@ -65,7 +65,7 @@ line pit -close off
   437.46 -705.21
 endline
 
-line border -close on
+line wall -close on
   654.82 -469.46
   625.47 -462.11 593.81 -464.92 563.99 -460.15
   534.25 -455.39 453.13 -437.24 426.38 -446.25

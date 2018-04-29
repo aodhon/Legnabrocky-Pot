@@ -3,11 +3,13 @@ source Legnabrocky_Pot.th
 export map -proj plan -layout local -output ../output/LegnabrockyPot.pdf
 export model -fmt kml -o ../output/LegnabrockyPotModel.kml
 export map -proj plan -fmt kml -o ../output/LegnabrockyPotPlan.kml
-#export model -o ../output/LegnabrockyPot.lox
+export model -o ../output/LegnabrockyPot.lox
 
 
 layout local
   scale 1 100
-  #legend on
+  color map-fg scrap
+  color map-bg [75 75 75]
+  legend on
   scale-bar 20 m
 endlayout
