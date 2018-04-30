@@ -1,6 +1,6 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust -1746.3229813664595 -1331.1055900621118 1157.8136645962732 3649.428571428571
-##XTHERION## xth_me_area_zoom_to 322
+##XTHERION## xth_me_area_adjust -1748.3007518796992 -1333.2631578947369 1159.578947368421 3651.3082706766913
+##XTHERION## xth_me_area_zoom_to 133
 
 # 2018.04.22 created by TopoDroid v. 4.0.0h
 
@@ -2107,7 +2107,7 @@ line u:splay -visibility off
   431.01 945.81
 endline
 
-point 472.18 1006.31 pillar
+point 466.5302824858757 972.4116949152542 pillar
 
 line wall
   363.96 1446.4
@@ -2180,6 +2180,14 @@ line wall
   427.16 934.1 431.85 939.74 431.01 945.81
   429.84 954.29 422.89 961.06 420.67 969.33
   415.81 987.39 416.96 1006.69 412.44 1024.94
+  smooth off
+endline
+
+point 82.98870056497175 989.3446327683616 section -scrap Legnabrocky_Pot-xx0
+
+line section -id xx0 -direction end
+  178.53 978.53
+  255.37 986.44 424.86 1006.78 503.39 1015.25
   smooth off
 endline
 
@@ -2269,7 +2277,7 @@ endline
 
 line wall -reverse on
   428.92 -236.97
-  459.08 -229.02
+  460.15 -228.57
   476.37 -221.43
   489.8 -206.71
 endline

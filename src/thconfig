@@ -8,8 +8,10 @@ export model -o ../output/LegnabrockyPot.lox
 
 layout local
   scale 1 100
-  color map-fg scrap
+  #color-legend on
+  #color map-fg scrap
   color map-bg [75 75 75]
   legend on
-  scale-bar 20 m
+  scale-bar 10 m
+  map-header 0 0 sw
 endlayout

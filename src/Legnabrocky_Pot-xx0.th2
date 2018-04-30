@@ -1,0 +1,248 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -128.93457943925233 -874.9626168224299 753.2336448598131 138.74766355140187
+##XTHERION## xth_me_area_zoom_to 428
+
+# 2018.04.30 created by TopoDroid v. 4.0.0h
+
+#P  u:user label air-draught blocks clay continuation debris entrance flowstone rimstone-pool paleo-material pillar pillars sand soda-straw stalactite stalactites stalagmite stalagmites wall-calcite water-flow
+#L  u:user wall arrow border pit wall:presumed rock-border section slope wall:blocks
+#A  u:user water blocks clay debris pebbles sand
+
+
+
+
+scrap Legnabrocky_Pot-xx0 -projection none -scale [0 0 100 0 0 0 1 0 m]
+
+line wall -close off
+  457.04 -688.51
+  467.7 -659.8
+  468.71 -647.17
+  476.4 -617.52
+  492.71 -600.42
+  481.48 -582.61
+  481.5 -552.53
+  473.6 -521.73
+  485.05 -488.32
+  498.36 -490.01
+  522.9 -496.96
+  542.85 -515.44
+  561.17 -520.75
+  586.77 -538.08
+  588.67 -558.63
+  597.2 -579.44
+  599.07 -592.06
+  595.36 -626.05
+  585.19 -651.48
+  571.04 -683.24
+  563.43 -692.39
+  557.8 -714.19
+  529.4 -721.9
+  504.56 -722.61
+  473.37 -716.26
+  460.28 -706.78
+  457.04 -688.51
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  485.13 -701.69
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  481.45 -683.4
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  483.51 -673.54
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  468.72 -648.4
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  471.23 -656.22
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  517.12 -701.2
+endline
+
+line u:splay -visibility off
+  603.49 -745.99
+  476.04 -654.69
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  619.25 -610.36
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  610.2 -613.51
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  623.15 -636.86
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  622.24 -646.77
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  624.32 -676.56
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  504.05 -685.84
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  468.71 -647.17
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  607.15 -610.32
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  595.32 -608.84
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  587.33 -606.12
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  569.67 -603.77
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  590.7 -626.48
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  601.15 -644.23
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  598.32 -616.03
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  506.62 -607.35
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  501.25 -606.36
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  492.71 -600.42
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  479.77 -601.55
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  474.11 -590.99
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  481.48 -582.61
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  481.5 -552.53
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  485.82 -488.61
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  542.85 -515.44
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  586.77 -538.08
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  608.0 -582.14
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  595.36 -626.05
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  591.77 -661.62
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  571.04 -683.24
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  557.8 -714.19
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  529.4 -721.9
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  504.56 -722.61
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  473.37 -716.26
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  457.04 -688.51
+endline
+
+endscrap
+
+
