@@ -1,0 +1,46 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -128.97799511002444 -913.0855745721271 645.6039119804401 138.75794621026895
+##XTHERION## xth_me_area_zoom_to 409
+
+# 2018.05.01 created by TopoDroid v. 4.0.0h
+
+#P  u:user label air-draught blocks clay continuation debris entrance flowstone rimstone-pool paleo-material pillar pillars sand soda-straw stalactite stalactites stalagmite stalagmites wall-calcite water-flow
+#L  u:user wall arrow border pit wall:presumed rock-border section slope wall:blocks
+#A  u:user water blocks clay debris pebbles sand
+
+
+
+
+scrap Legnabrocky_Pot-xx4 -projection none -scale [0 0 100 0 0 0 1 0 m]
+
+area water
+  l10-459--736
+endarea
+
+line border -id l10-459--736 -close on
+  516.61 -736.16
+  448.53 -736.16
+  450.1628664495114 -784.0390879478826
+  513.6807817589577 -777.5244299674266
+  516.61 -736.16
+endline
+
+line wall -close on
+  468.46 -591.69
+  467.45 -610.36 465.92 -628.74 466.26 -647.43
+  466.6 -666.12 472.54 -684.32 474.27 -702.93
+  474.53 -705.82 472.67 -741.56 475.57 -746.25
+  477.01 -748.59 491.98 -749.01 493.81 -746.58
+  496.47 -743.06 495.71 -737.94 496.09 -733.55
+  498.52 -705.56 505.76 -675.66 503.18 -647.68
+  502.01 -634.99 495.14 -624.43 494.14 -611.73
+  493.03 -597.77 494.05 -540.17 494.14 -522.48
+  494.2 -508.71 495.9 -494.82 494.13 -481.17
+  492.44 -468.11 490.27 -442.8 483.86 -443.03
+  477.02 -443.28 473.45 -469.1 472.37 -482.89
+  469.54 -519.04 470.41 -555.48 468.46 -591.69
+endline
+
+endscrap
+
+

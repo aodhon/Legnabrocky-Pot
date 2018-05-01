@@ -12,6 +12,9 @@ survey Legnabrocky_Pot -title "Legnabrocky Pot"
   input "Legnabrocky_Pot-MainChamberHIGHp.th2"
   ## input "Legnabrocky_Pot-MainChamberHIGHs.th2"
   input "Legnabrocky_Pot-xx0.th2"
+  input "Legnabrocky_Pot-xx2.th2"
+  input "Legnabrocky_Pot-xx4.th2"
+  input "Legnabrocky_Pot-xx5.th2"
 
   map mSURFACEp -projection plan
     Legnabrocky_Pot-SURFACEp

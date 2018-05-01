@@ -1,0 +1,254 @@
+encoding  utf-8
+##XTHERION## xth_me_area_adjust -129.0752688172043 -729.0752688172042 664.8279569892472 138.752688172043
+##XTHERION## xth_me_area_zoom_to 158
+
+# 2018.05.01 created by TopoDroid v. 4.0.0h
+
+#P  u:user label air-draught blocks clay continuation debris entrance flowstone rimstone-pool paleo-material pillar pillars sand soda-straw stalactite stalactites stalagmite stalagmites wall-calcite water-flow
+#L  u:user wall arrow border pit wall:presumed rock-border section slope wall:blocks
+#A  u:user water blocks clay debris pebbles sand
+
+
+
+
+scrap Legnabrocky_Pot-xx2 -projection none -scale [0 0 100 0 0 0 1 0 m]
+
+line wall -reverse on
+  364.79 -523.96
+  331.78 -509.29
+  310.51 -494.13
+  313.08 -483.27
+  314.65 -481.23
+  342.79 -470.9
+  368.46 -462.35
+  384.6 -459.41
+  399.27 -457.46
+  421.76 -456.72
+endline
+
+line wall
+endline
+
+line rock-border
+endline
+
+line rock-border
+  477.1505376344086 -460.4838709677419
+  477.15 -489.52
+endline
+
+line rock-border
+  486.5591397849462 -465.59139784946234
+  486.56 -491.4
+endline
+
+line rock-border
+  467.7419354838709 -457.5268817204301
+  467.74 -483.6
+endline
+
+line rock-border
+  457.79569892473114 -456.1827956989247
+  457.8 -475.27
+endline
+
+line rock-border
+  445.96774193548384 -454.5698924731183
+  445.97 -474.19
+endline
+
+line rock-border
+  494.0860215053763 -465.3225806451613
+  494.09 -508.06
+endline
+
+line rock-border
+  503.22580645161287 -472.84946236559136
+  503.23 -507.26
+endline
+
+line rock-border
+  392.47311827956986 -455.1075268817204
+  392.47311827956986 -469.3548387096774
+endline
+
+line rock-border
+  383.8709677419355 -456.4516129032258
+  383.8709677419355 -481.9892473118279
+endline
+
+line rock-border
+  374.19354838709677 -458.6021505376344
+  374.19354838709677 -491.39784946236557
+endline
+
+line rock-border
+  363.17204301075265 -462.3655913978494
+  363.17 -502.15
+endline
+
+line rock-border
+  351.0752688172043 -465.3225806451613
+  350.81 -506.18
+endline
+
+line rock-border
+  339.51612903225805 -468.54838709677415
+  339.78 -505.38
+endline
+
+line rock-border
+  327.41935483870964 -468.54838709677415
+  327.42 -506.45
+endline
+
+line rock-border
+  433.06451612903226 -452.9569892473118
+  433.06 -467.74
+endline
+
+line rock-border
+  423.6559139784946 -453.22580645161287
+  423.66 -468.28
+endline
+
+line rock-border
+  414.247311827957 -453.76344086021504
+  414.25 -468.55
+endline
+
+line rock-border
+  401.34408602150535 -454.30107526881716
+  401.34 -469.09
+endline
+
+line wall -id l4-461--462 -reverse on
+  421.76 -456.72
+  446.45 -459.17
+  476.28 -463.57
+  497.07 -472.13
+  512.15 -481.44
+  512.34 -491.39
+  504.65 -511.98
+  487.78 -525.43
+  466.01 -525.67
+  448.66 -526.16
+  426.41 -526.41
+  409.05 -526.41
+  387.04 -525.43
+  364.79 -523.96
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  512.15 -481.44
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  502.49 -490.47
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  313.08 -483.27
+endline
+
+line u:splay -id l9-462--493 -visibility off
+  435.48 -507.6
+  518.55 -459.62
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  510.54 -454.79
+endline
+
+line u:splay -id l11-398--491 -visibility off
+  435.48 -507.6
+  290.0 -442.19
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  238.33 -442.78
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  234.13 -446.99
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  235.66 -447.67
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  243.8 -459.18
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  246.35 -460.34
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  314.65 -481.23
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  327.13 -490.86
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  253.01 -510.54
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  246.2 -526.61
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  244.74 -555.88
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  527.56 -545.65
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  535.73 -538.51
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  533.32 -527.62
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  513.58 -517.47
+endline
+
+line u:splay -visibility off
+  435.48 -507.6
+  512.34 -491.39
+endline
+
+line u:splay -visibility off
+  500.0 -600.0
+  349.75 -533.97
+endline
+
+endscrap
+
+

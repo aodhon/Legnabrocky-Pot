@@ -1,9 +1,10 @@
 encoding  utf-8
 source Legnabrocky_Pot.th
-export map -proj plan -layout local -output ../output/LegnabrockyPot.pdf
+export map -proj plan -layout local -layout water-blue -output ../output/LegnabrockyPot.pdf
 export model -fmt kml -o ../output/LegnabrockyPotModel.kml
 export map -proj plan -fmt kml -o ../output/LegnabrockyPotPlan.kml
 export model -o ../output/LegnabrockyPot.lox
+export model -o ../output/LegnabrockyPot.3d
 
 
 layout local
@@ -14,4 +15,12 @@ layout local
   legend on
   scale-bar 10 m
   map-header 0 0 sw
+endlayout
+
+layout water-blue
+  code metapost
+  def a_water (expr p) =
+    T:=identity;
+    thfill p withcolor (0.0, 0.5, 1.0);
+  enddef;
 endlayout

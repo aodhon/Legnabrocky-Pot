@@ -1,6 +1,6 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust -1748.3007518796992 -1333.2631578947369 1159.578947368421 3651.3082706766913
-##XTHERION## xth_me_area_zoom_to 133
+##XTHERION## xth_me_area_adjust -1747.86301369863 -1332.7945205479452 1159.5068493150684 3651.2876712328766
+##XTHERION## xth_me_area_zoom_to 146
 
 # 2018.04.22 created by TopoDroid v. 4.0.0h
 
@@ -1284,7 +1284,7 @@ line wall -reverse on
   -526.17 2482.43
 endline
 
-point -218.4631868131868 2488.27978021978 flowstone -orientation 237.1
+point -218.4631868131868 2488.27978021978 passage-height
 
 point -597.2635164835165 2477.29 flowstone -orientation 98.6
 
@@ -2050,6 +2050,20 @@ line u:splay -visibility off
   -692.72 2782.98
 endline
 
+point -921.2328767123288 2982.1917808219177 section -scrap Legnabrocky_Pot-xx5
+
+line section -direction begin
+  -853.4246575342465 3227.3972602739723
+  -834.2465753424657 3396.5753424657532
+endline
+
+point -521.917808219178 3147.2602739726026 section -scrap Legnabrocky_Pot-xx4
+
+line section -direction begin
+  -747.945205479452 2948.6301369863013
+  -577.3972602739726 2955.4794520547944
+endline
+
 line u:splay -visibility off
   -658.98 2738.48
   -690.52 3101.0
@@ -2703,6 +2717,13 @@ point 358.98296703296705 -295.1221978021978 stalagmite
 point 391.7731868131868 -466.0434065934066 soda-straw
 
 point 520.8647252747253 711.1860439560439 stalactites
+
+point 951.8796992481202 -35.338345864661655 section -scrap Legnabrocky_Pot-xx2
+
+line section -direction begin
+  469.17293233082705 -34.58646616541353
+  809.7744360902255 -35.338345864661655
+endline
 
 endscrap
 
