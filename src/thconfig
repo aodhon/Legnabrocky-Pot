@@ -11,7 +11,7 @@ layout local
   scale 1 100
   #color-legend on
   #color map-fg scrap
-  color map-bg [75 75 75]
+  #color map-bg [75 75 75]
   legend on
   scale-bar 10 m
   map-header 0 0 sw
